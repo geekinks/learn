@@ -41,6 +41,10 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        gtag: {
+          trackingID: 'G-P41JC1DRLV',
+          anonymizeIP: true,
+        },
         docs: {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
