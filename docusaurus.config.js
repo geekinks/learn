@@ -6,6 +6,7 @@
 
 import {themes as prismThemes} from 'prism-react-renderer';
 
+
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
@@ -35,6 +36,11 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
    
   plugins: [
     [
@@ -101,6 +107,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
+      mermaid: {
+        theme: {light: 'neutral', dark: 'forest'},
+      },
       image: 'img/banner.png',
       navbar: {
         // title: 'GeekInk',
