@@ -1,19 +1,4 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
-
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
-
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+geekink:
+  label: GitHub
+  permalink: /geekinks
+  description: Our mission is to serve as the catalyst for tech empowerment, ensuring every individual in our community
