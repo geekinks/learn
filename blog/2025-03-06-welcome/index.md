@@ -40,7 +40,7 @@ This **2-week introduction** is structured to give you **solid fundamentals** be
 
 You’re not alone in this journey. The **Geek Ink Web Development Cohort** is filled with learners **just like you** who are starting or advancing their coding careers.  
 
-💬 **Engage in Discussions** – Join conversations on **Discord** and during live sessions.  
+💬 **Engage in Discussions** – Join conversations on **WhatApp** and during live sessions.  
 🤝 **Pair Up with Peers** – Learning is more fun when you **work together on exercises and projects**.  
 🚀 **Be an Active Participant** – The more you contribute, the more you gain from the program.  
 
@@ -70,6 +70,3 @@ The next **two weeks** will lay the foundation for your coding journey. By the e
 🌟 **Your journey starts now.** Stay committed, stay curious, and most importantly—**have fun coding!** 🚀🔥  
 
 ---
-
-💬 **Have questions? Need help?**  
-Jump into our **Discord channel (#mastering-web-dev)** and let’s build something amazing together!  

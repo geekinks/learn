@@ -1,0 +1,8 @@
+{
+  "label": "week1",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Introduction to the basics of the project, including setup and configuration."
+  }
+}
